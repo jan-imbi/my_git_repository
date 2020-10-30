@@ -11,4 +11,16 @@ plot(x)
 
 #eine aenderung
 
+
 print("Hello")
+
+y <- 7*3
+
+# noch eine Änderung
+
+z <- 9-3-1
+
+3*3*3*3
+
+"hello"
+
