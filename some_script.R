@@ -10,3 +10,5 @@ plot(x)
 5^3
 
 #eine aenderung
+
+y <- 7*3
